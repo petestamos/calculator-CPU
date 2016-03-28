@@ -1,3 +1,3 @@
 # calculator-CPU
 
-A MIPS calculator program with an accompanying Logisim CPU designed to run it.
+A MIPS calculator program with the Logisim CPU designed to run it.
